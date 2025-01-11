@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hari-VB
 - 👀 I’m interested in MERN Stack Development
 - 🌱 I’m currently learning MERN Stack
-- 📫 How to reach me - harivb.connect@gmail.com
+- 📫 How to reach me - harivb26@gmail.com
 - LinkedIn-www.linkedin.com/in/hari-vb
 
 <!---
